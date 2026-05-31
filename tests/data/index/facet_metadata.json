@@ -1,0 +1,102 @@
+{
+  "0": {
+    "facet_id": "risk_taking",
+    "facet_name": "Risk Taking",
+    "category": "personality"
+  },
+  "1": {
+    "facet_id": "compassion",
+    "facet_name": "Compassion",
+    "category": "emotion"
+  },
+  "2": {
+    "facet_id": "honesty",
+    "facet_name": "Honesty",
+    "category": "personality"
+  },
+  "3": {
+    "facet_id": "naivety",
+    "facet_name": "Naivety",
+    "category": "cognitive"
+  },
+  "4": {
+    "facet_id": "adventure_seeking",
+    "facet_name": "Adventure Seeking",
+    "category": "personality"
+  },
+  "5": {
+    "facet_id": "assertiveness",
+    "facet_name": "Assertiveness",
+    "category": "social"
+  },
+  "6": {
+    "facet_id": "empathy",
+    "facet_name": "Empathy",
+    "category": "emotion"
+  },
+  "7": {
+    "facet_id": "statistical_reasoning",
+    "facet_name": "Statistical Reasoning",
+    "category": "cognitive"
+  },
+  "8": {
+    "facet_id": "compassion_fatigue",
+    "facet_name": "Compassion Fatigue",
+    "category": "emotion"
+  },
+  "9": {
+    "facet_id": "democratic_leadership",
+    "facet_name": "Democratic Leadership",
+    "category": "social"
+  },
+  "10": {
+    "facet_id": "moroseness",
+    "facet_name": "Moroseness",
+    "category": "emotion"
+  },
+  "11": {
+    "facet_id": "common_sense",
+    "facet_name": "Common Sense",
+    "category": "cognitive"
+  },
+  "12": {
+    "facet_id": "kindness",
+    "facet_name": "Kindness",
+    "category": "emotion"
+  },
+  "13": {
+    "facet_id": "warmth",
+    "facet_name": "Warmth",
+    "category": "emotion"
+  },
+  "14": {
+    "facet_id": "courage",
+    "facet_name": "Courage",
+    "category": "personality"
+  },
+  "15": {
+    "facet_id": "authenticity",
+    "facet_name": "Authenticity",
+    "category": "personality"
+  },
+  "16": {
+    "facet_id": "integrity",
+    "facet_name": "Integrity",
+    "category": "personality"
+  },
+  "17": {
+    "facet_id": "pessimism",
+    "facet_name": "Pessimism",
+    "category": "emotion"
+  },
+  "18": {
+    "facet_id": "curiosity",
+    "facet_name": "Curiosity",
+    "category": "cognitive"
+  },
+  "19": {
+    "facet_id": "gullibility",
+    "facet_name": "Gullibility",
+    "category": "cognitive"
+  }
+}

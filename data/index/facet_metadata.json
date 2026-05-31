@@ -1,0 +1,1997 @@
+{
+  "0": {
+    "facet_id": "risktaking",
+    "facet_name": "Risktaking",
+    "category": "personality"
+  },
+  "1": {
+    "facet_id": "naivety",
+    "facet_name": "Naivety",
+    "category": "cognitive"
+  },
+  "2": {
+    "facet_id": "acidity",
+    "facet_name": "Acidity",
+    "category": "clinical_health"
+  },
+  "3": {
+    "facet_id": "democratic_leadership",
+    "facet_name": "Democratic Leadership",
+    "category": "social"
+  },
+  "4": {
+    "facet_id": "common_sense",
+    "facet_name": "Common-Sense",
+    "category": "cognitive"
+  },
+  "5": {
+    "facet_id": "hesitation",
+    "facet_name": "Hesitation",
+    "category": "other"
+  },
+  "6": {
+    "facet_id": "discontentment",
+    "facet_name": "Discontentment",
+    "category": "emotion"
+  },
+  "7": {
+    "facet_id": "overprotectiveness",
+    "facet_name": "Overprotectiveness",
+    "category": "other"
+  },
+  "8": {
+    "facet_id": "merriness",
+    "facet_name": "Merriness",
+    "category": "emotion"
+  },
+  "9": {
+    "facet_id": "emotionalism",
+    "facet_name": "Emotionalism",
+    "category": "emotion"
+  },
+  "10": {
+    "facet_id": "self_improvement",
+    "facet_name": "Self-Improvement",
+    "category": "other"
+  },
+  "11": {
+    "facet_id": "statistical_reasoning",
+    "facet_name": "Statistical Reasoning",
+    "category": "cognitive"
+  },
+  "12": {
+    "facet_id": "assertiveness_and_control_in_relationships",
+    "facet_name": "Assertiveness And Control In Relationships",
+    "category": "social"
+  },
+  "13": {
+    "facet_id": "cunningness",
+    "facet_name": "Cunningness",
+    "category": "cognitive"
+  },
+  "14": {
+    "facet_id": "adventure_seeking_behavior",
+    "facet_name": "Adventure-Seeking Behavior",
+    "category": "personality"
+  },
+  "15": {
+    "facet_id": "compassion_fatigue",
+    "facet_name": "Compassion Fatigue",
+    "category": "emotion"
+  },
+  "16": {
+    "facet_id": "moroseness",
+    "facet_name": "Moroseness",
+    "category": "emotion"
+  },
+  "17": {
+    "facet_id": "specialist",
+    "facet_name": "Specialist",
+    "category": "other"
+  },
+  "18": {
+    "facet_id": "aloofness",
+    "facet_name": "Aloofness",
+    "category": "other"
+  },
+  "19": {
+    "facet_id": "genuine",
+    "facet_name": "Genuine",
+    "category": "other"
+  },
+  "20": {
+    "facet_id": "determinedness",
+    "facet_name": "Determinedness",
+    "category": "other"
+  },
+  "21": {
+    "facet_id": "honesty_humility",
+    "facet_name": "Honesty Humility",
+    "category": "personality"
+  },
+  "22": {
+    "facet_id": "relationship_building_themes",
+    "facet_name": "Relationship Building Themes",
+    "category": "social"
+  },
+  "23": {
+    "facet_id": "pure_challenge",
+    "facet_name": "Pure Challenge",
+    "category": "other"
+  },
+  "24": {
+    "facet_id": "numerical_reasoning_subcomponents",
+    "facet_name": "Numerical Reasoning Subcomponents",
+    "category": "cognitive"
+  },
+  "25": {
+    "facet_id": "openness",
+    "facet_name": "Openness",
+    "category": "other"
+  },
+  "26": {
+    "facet_id": "self_esteem",
+    "facet_name": "Self Esteem",
+    "category": "other"
+  },
+  "27": {
+    "facet_id": "comparing_alphanumeric_data",
+    "facet_name": "Comparing Alphanumeric Data",
+    "category": "cognitive"
+  },
+  "28": {
+    "facet_id": "big_heartedness",
+    "facet_name": "Big-Heartedness",
+    "category": "other"
+  },
+  "29": {
+    "facet_id": "compulsive_activities",
+    "facet_name": "Compulsive Activities",
+    "category": "clinical_health"
+  },
+  "30": {
+    "facet_id": "disrespect",
+    "facet_name": "Disrespect",
+    "category": "safety"
+  },
+  "31": {
+    "facet_id": "fsh_level",
+    "facet_name": "Fsh Level",
+    "category": "clinical_health"
+  },
+  "32": {
+    "facet_id": "self_perspective",
+    "facet_name": "Self Perspective",
+    "category": "other"
+  },
+  "33": {
+    "facet_id": "desperation",
+    "facet_name": "Desperation",
+    "category": "social"
+  },
+  "34": {
+    "facet_id": "affiliation_motivation",
+    "facet_name": "Affiliation Motivation",
+    "category": "social"
+  },
+  "35": {
+    "facet_id": "anatomy_knowledge",
+    "facet_name": "Anatomy Knowledge",
+    "category": "clinical_health"
+  },
+  "36": {
+    "facet_id": "passive_aggressive",
+    "facet_name": "Passive-Aggressive",
+    "category": "emotion"
+  },
+  "37": {
+    "facet_id": "presence_of_spiritual_pain",
+    "facet_name": "Presence Of Spiritual Pain",
+    "category": "spirituality_culture"
+  },
+  "38": {
+    "facet_id": "role_of_spirituality_in_community_involvement",
+    "facet_name": "Role Of Spirituality In Community Involvement",
+    "category": "spirituality_culture"
+  },
+  "39": {
+    "facet_id": "structure",
+    "facet_name": "Structure",
+    "category": "other"
+  },
+  "40": {
+    "facet_id": "eco_tourism_trips",
+    "facet_name": "Eco-Tourism Trips",
+    "category": "behavioral_lifestyle"
+  },
+  "41": {
+    "facet_id": "chivalrousness",
+    "facet_name": "Chivalrousness",
+    "category": "other"
+  },
+  "42": {
+    "facet_id": "pilgrimage_participation_count",
+    "facet_name": "Pilgrimage Participation Count",
+    "category": "behavioral_lifestyle"
+  },
+  "43": {
+    "facet_id": "mindfulness_facet_observing",
+    "facet_name": "Mindfulness Facet: Observing",
+    "category": "spirituality_culture"
+  },
+  "44": {
+    "facet_id": "submissiveness",
+    "facet_name": "Submissiveness",
+    "category": "social"
+  },
+  "45": {
+    "facet_id": "training_cycle_length",
+    "facet_name": "Training-Cycle Length",
+    "category": "behavioral_lifestyle"
+  },
+  "46": {
+    "facet_id": "sensitiveness",
+    "facet_name": "Sensitiveness",
+    "category": "other"
+  },
+  "47": {
+    "facet_id": "negative_affect_frequency",
+    "facet_name": "Negative Affect Frequency",
+    "category": "behavioral_lifestyle"
+  },
+  "48": {
+    "facet_id": "innovation_and_creativity_components",
+    "facet_name": "Innovation And Creativity Components",
+    "category": "cognitive"
+  },
+  "49": {
+    "facet_id": "achievement_motivation",
+    "facet_name": "Achievement Motivation",
+    "category": "safety"
+  },
+  "50": {
+    "facet_id": "feedback_giving_frequency",
+    "facet_name": "Feedback-Giving Frequency",
+    "category": "behavioral_lifestyle"
+  },
+  "51": {
+    "facet_id": "dance_cardio_sessions",
+    "facet_name": "Dance-Cardio Sessions",
+    "category": "emotion"
+  },
+  "52": {
+    "facet_id": "enthusiasm",
+    "facet_name": "Enthusiasm",
+    "category": "other"
+  },
+  "53": {
+    "facet_id": "psychological_construct_social_desirability_tendency",
+    "facet_name": "Psychological Construct: Social Desirability Tendency",
+    "category": "cognitive"
+  },
+  "54": {
+    "facet_id": "inattentiveness",
+    "facet_name": "Inattentiveness",
+    "category": "personality"
+  },
+  "55": {
+    "facet_id": "unassertiveness",
+    "facet_name": "Unassertiveness",
+    "category": "social"
+  },
+  "56": {
+    "facet_id": "decision_making_decisiveness",
+    "facet_name": "Decision-Making Decisiveness",
+    "category": "other"
+  },
+  "57": {
+    "facet_id": "sense_of_coherence_score",
+    "facet_name": "Sense-Of-Coherence Score",
+    "category": "other"
+  },
+  "58": {
+    "facet_id": "justice_mindedness",
+    "facet_name": "Justice-Mindedness",
+    "category": "spirituality_culture"
+  },
+  "59": {
+    "facet_id": "subscription_count",
+    "facet_name": "Subscription Count",
+    "category": "behavioral_lifestyle"
+  },
+  "60": {
+    "facet_id": "depression_symptoms",
+    "facet_name": "Depression Symptoms",
+    "category": "clinical_health"
+  },
+  "61": {
+    "facet_id": "spatial_perception",
+    "facet_name": "Spatial Perception",
+    "category": "safety"
+  },
+  "62": {
+    "facet_id": "brevity",
+    "facet_name": "Brevity",
+    "category": "other"
+  },
+  "63": {
+    "facet_id": "orderliness",
+    "facet_name": "Orderliness",
+    "category": "other"
+  },
+  "64": {
+    "facet_id": "multiculturalism",
+    "facet_name": "Multiculturalism",
+    "category": "spirituality_culture"
+  },
+  "65": {
+    "facet_id": "creative_risk_taking_tendency",
+    "facet_name": "Creative Risk-Taking Tendency",
+    "category": "cognitive"
+  },
+  "66": {
+    "facet_id": "inefficiency",
+    "facet_name": "Inefficiency",
+    "category": "other"
+  },
+  "67": {
+    "facet_id": "network_basics",
+    "facet_name": "Network Basics",
+    "category": "other"
+  },
+  "68": {
+    "facet_id": "alphabetical_filing_skills",
+    "facet_name": "Alphabetical Filing Skills",
+    "category": "cognitive"
+  },
+  "69": {
+    "facet_id": "work_styles",
+    "facet_name": "Work Styles",
+    "category": "other"
+  },
+  "70": {
+    "facet_id": "character_strength_perseverance",
+    "facet_name": "Character Strength: Perseverance",
+    "category": "personality"
+  },
+  "71": {
+    "facet_id": "competition",
+    "facet_name": "Competition",
+    "category": "emotion"
+  },
+  "72": {
+    "facet_id": "logical_sequence_identification",
+    "facet_name": "Logical Sequence Identification",
+    "category": "cognitive"
+  },
+  "73": {
+    "facet_id": "sustainable_transport_usage",
+    "facet_name": "Sustainable-Transport Usage",
+    "category": "other"
+  },
+  "74": {
+    "facet_id": "hardworking",
+    "facet_name": "Hardworking",
+    "category": "other"
+  },
+  "75": {
+    "facet_id": "emotional_intelligence_measure_impulsiveness",
+    "facet_name": "Emotional-Intelligence Measure: Impulsiveness",
+    "category": "emotion"
+  },
+  "76": {
+    "facet_id": "dishonesty",
+    "facet_name": "Dishonesty",
+    "category": "personality"
+  },
+  "77": {
+    "facet_id": "preferred_epistemology",
+    "facet_name": "Preferred Epistemology",
+    "category": "other"
+  },
+  "78": {
+    "facet_id": "memory_for_sounds",
+    "facet_name": "Memory For Sounds",
+    "category": "other"
+  },
+  "79": {
+    "facet_id": "sportsmanship_rating",
+    "facet_name": "Sportsmanship Rating",
+    "category": "social"
+  },
+  "80": {
+    "facet_id": "immaturity",
+    "facet_name": "Immaturity",
+    "category": "other"
+  },
+  "81": {
+    "facet_id": "health_literacy_level",
+    "facet_name": "Health-Literacy Level",
+    "category": "clinical_health"
+  },
+  "82": {
+    "facet_id": "estimating_calculations",
+    "facet_name": "Estimating Calculations",
+    "category": "safety"
+  },
+  "83": {
+    "facet_id": "depression_feelings_of_sadness_and_hopelessness",
+    "facet_name": "Depression: Feelings Of Sadness And Hopelessness",
+    "category": "emotion"
+  },
+  "84": {
+    "facet_id": "synthesis_of_information",
+    "facet_name": "Synthesis Of Information",
+    "category": "safety"
+  },
+  "85": {
+    "facet_id": "leadership_potential",
+    "facet_name": "Leadership Potential",
+    "category": "social"
+  },
+  "86": {
+    "facet_id": "ethical_standards",
+    "facet_name": "Ethical Standards",
+    "category": "cognitive"
+  },
+  "87": {
+    "facet_id": "high_spiritedness",
+    "facet_name": "High-Spiritedness",
+    "category": "spirituality_culture"
+  },
+  "88": {
+    "facet_id": "critical_reasoning",
+    "facet_name": "Critical Reasoning",
+    "category": "cognitive"
+  },
+  "89": {
+    "facet_id": "sleep_disorder_diagnosis",
+    "facet_name": "Sleep-Disorder Diagnosis",
+    "category": "clinical_health"
+  },
+  "90": {
+    "facet_id": "listening_skills_subcomponents",
+    "facet_name": "Listening Skills Subcomponents",
+    "category": "cognitive"
+  },
+  "91": {
+    "facet_id": "collaboration",
+    "facet_name": "Collaboration",
+    "category": "social"
+  },
+  "92": {
+    "facet_id": "precision_of_movements",
+    "facet_name": "Precision Of Movements",
+    "category": "other"
+  },
+  "93": {
+    "facet_id": "social_boldness",
+    "facet_name": "Social Boldness",
+    "category": "personality"
+  },
+  "94": {
+    "facet_id": "auditory_memory",
+    "facet_name": "Auditory Memory",
+    "category": "other"
+  },
+  "95": {
+    "facet_id": "psychomotor_ability_subcomponents",
+    "facet_name": "Psychomotor Ability Subcomponents",
+    "category": "other"
+  },
+  "96": {
+    "facet_id": "organized_lifestyle",
+    "facet_name": "Organized Lifestyle",
+    "category": "behavioral_lifestyle"
+  },
+  "97": {
+    "facet_id": "skill_endorsements_count",
+    "facet_name": "Skill-Endorsements Count",
+    "category": "behavioral_lifestyle"
+  },
+  "98": {
+    "facet_id": "mysteriousness",
+    "facet_name": "Mysteriousness",
+    "category": "other"
+  },
+  "99": {
+    "facet_id": "cultural_identity",
+    "facet_name": "Cultural Identity",
+    "category": "personality"
+  },
+  "100": {
+    "facet_id": "intrinsic_motivation",
+    "facet_name": "Intrinsic Motivation",
+    "category": "other"
+  },
+  "101": {
+    "facet_id": "impartial_mindedness",
+    "facet_name": "Impartial-Mindedness",
+    "category": "emotion"
+  },
+  "102": {
+    "facet_id": "burnout_symptoms",
+    "facet_name": "Burnout Symptoms",
+    "category": "emotion"
+  },
+  "103": {
+    "facet_id": "holiness",
+    "facet_name": "Holiness",
+    "category": "emotion"
+  },
+  "104": {
+    "facet_id": "selfcontrol",
+    "facet_name": "Selfcontrol",
+    "category": "other"
+  },
+  "105": {
+    "facet_id": "self_directedness",
+    "facet_name": "Self Directedness",
+    "category": "other"
+  },
+  "106": {
+    "facet_id": "encouraging_participation",
+    "facet_name": "Encouraging Participation",
+    "category": "behavioral_lifestyle"
+  },
+  "107": {
+    "facet_id": "impracticalness",
+    "facet_name": "Impracticalness",
+    "category": "spirituality_culture"
+  },
+  "108": {
+    "facet_id": "meeting_deadlines",
+    "facet_name": "Meeting Deadlines",
+    "category": "other"
+  },
+  "109": {
+    "facet_id": "data_analysis",
+    "facet_name": "Data Analysis",
+    "category": "other"
+  },
+  "110": {
+    "facet_id": "social_interaction_skills",
+    "facet_name": "Social Interaction Skills",
+    "category": "social"
+  },
+  "111": {
+    "facet_id": "psychoticism",
+    "facet_name": "Psychoticism",
+    "category": "other"
+  },
+  "112": {
+    "facet_id": "ethical_leadership_rating",
+    "facet_name": "Ethical Leadership Rating",
+    "category": "social"
+  },
+  "113": {
+    "facet_id": "slothfulness",
+    "facet_name": "Slothfulness",
+    "category": "spirituality_culture"
+  },
+  "114": {
+    "facet_id": "happiness",
+    "facet_name": "Happiness",
+    "category": "emotion"
+  },
+  "115": {
+    "facet_id": "contentment_levels",
+    "facet_name": "Contentment Levels",
+    "category": "clinical_health"
+  },
+  "116": {
+    "facet_id": "neuroticism",
+    "facet_name": "Neuroticism",
+    "category": "personality"
+  },
+  "117": {
+    "facet_id": "desire_for_excellence",
+    "facet_name": "Desire For Excellence",
+    "category": "other"
+  },
+  "118": {
+    "facet_id": "perceiving",
+    "facet_name": "Perceiving",
+    "category": "cognitive"
+  },
+  "119": {
+    "facet_id": "liberalism",
+    "facet_name": "Liberalism",
+    "category": "other"
+  },
+  "120": {
+    "facet_id": "inversion_comfort_level",
+    "facet_name": "Inversion Comfort Level",
+    "category": "clinical_health"
+  },
+  "121": {
+    "facet_id": "affection",
+    "facet_name": "Affection",
+    "category": "other"
+  },
+  "122": {
+    "facet_id": "numeric_filing_skills",
+    "facet_name": "Numeric Filing Skills",
+    "category": "cognitive"
+  },
+  "123": {
+    "facet_id": "martyrdom",
+    "facet_name": "Martyrdom",
+    "category": "other"
+  },
+  "124": {
+    "facet_id": "parathyroid_hormone_level",
+    "facet_name": "Parathyroid-Hormone Level",
+    "category": "clinical_health"
+  },
+  "125": {
+    "facet_id": "seeking_approval",
+    "facet_name": "Seeking Approval",
+    "category": "other"
+  },
+  "126": {
+    "facet_id": "judging_j",
+    "facet_name": "Judging (J)",
+    "category": "cognitive"
+  },
+  "127": {
+    "facet_id": "big_five_facet_openness_artistic_interests",
+    "facet_name": "Big Five Facet Openness – Artistic Interests",
+    "category": "personality"
+  },
+  "128": {
+    "facet_id": "psychological_construct_operant_learning_rate",
+    "facet_name": "Psychological Construct: Operant-Learning Rate",
+    "category": "cognitive"
+  },
+  "129": {
+    "facet_id": "psychological_construct_need_for_achievement_level",
+    "facet_name": "Psychological Construct: Need For Achievement Level",
+    "category": "cognitive"
+  },
+  "130": {
+    "facet_id": "cantankerousness",
+    "facet_name": "Cantankerousness",
+    "category": "other"
+  },
+  "131": {
+    "facet_id": "material_properties_knowledge",
+    "facet_name": "Material Properties Knowledge",
+    "category": "clinical_health"
+  },
+  "132": {
+    "facet_id": "hostility",
+    "facet_name": "Hostility",
+    "category": "safety"
+  },
+  "133": {
+    "facet_id": "independence",
+    "facet_name": "Independence",
+    "category": "other"
+  },
+  "134": {
+    "facet_id": "sufi_practice_sufi_retreat_attendance_count",
+    "facet_name": "Sufi Practice: Sufi Retreat Attendance Count",
+    "category": "behavioral_lifestyle"
+  },
+  "135": {
+    "facet_id": "chromatin_accessibility_score",
+    "facet_name": "Chromatin-Accessibility Score",
+    "category": "other"
+  },
+  "136": {
+    "facet_id": "spiritual_virtue_humility_practice_index",
+    "facet_name": "Spiritual Virtue: Humility Practice Index",
+    "category": "personality"
+  },
+  "137": {
+    "facet_id": "i_ching_hexagram_36_resonance_level",
+    "facet_name": "I Ching Hexagram 36 Resonance Level",
+    "category": "clinical_health"
+  },
+  "138": {
+    "facet_id": "well_being_component_engagement",
+    "facet_name": "Well-Being Component: Engagement",
+    "category": "other"
+  },
+  "139": {
+    "facet_id": "need_for_social_interaction",
+    "facet_name": "Need For Social Interaction",
+    "category": "social"
+  },
+  "140": {
+    "facet_id": "peer_collaboration_hours",
+    "facet_name": "Peer-Collaboration Hours",
+    "category": "social"
+  },
+  "141": {
+    "facet_id": "arts_and_humanities",
+    "facet_name": "Arts And Humanities",
+    "category": "other"
+  },
+  "142": {
+    "facet_id": "religious_practice_quran_khatam_cycles_per_year",
+    "facet_name": "Religious Practice: Quran Khatam Cycles Per Year",
+    "category": "behavioral_lifestyle"
+  },
+  "143": {
+    "facet_id": "bah_spiritual_metric_ridv_n_festival_participation",
+    "facet_name": "Bahá’Í Spiritual Metric: Ridván Festival Participation",
+    "category": "behavioral_lifestyle"
+  },
+  "144": {
+    "facet_id": "compassion",
+    "facet_name": "Compassion",
+    "category": "emotion"
+  },
+  "145": {
+    "facet_id": "information_retention",
+    "facet_name": "Information Retention",
+    "category": "safety"
+  },
+  "146": {
+    "facet_id": "eye_contact_duration",
+    "facet_name": "Eye-Contact Duration",
+    "category": "social"
+  },
+  "147": {
+    "facet_id": "self_righteousness",
+    "facet_name": "Self-Righteousness",
+    "category": "other"
+  },
+  "148": {
+    "facet_id": "general_mood_and_attitude",
+    "facet_name": "General Mood And Attitude",
+    "category": "other"
+  },
+  "149": {
+    "facet_id": "serotonin_transporter_availability",
+    "facet_name": "Serotonin Transporter Availability",
+    "category": "other"
+  },
+  "150": {
+    "facet_id": "contribution_to_group_goals",
+    "facet_name": "Contribution To Group Goals",
+    "category": "other"
+  },
+  "151": {
+    "facet_id": "dignity",
+    "facet_name": "Dignity",
+    "category": "other"
+  },
+  "152": {
+    "facet_id": "hexaco_personality_inventory_facets",
+    "facet_name": "Hexaco Personality Inventory Facets",
+    "category": "personality"
+  },
+  "153": {
+    "facet_id": "evaluating_solutions",
+    "facet_name": "Evaluating Solutions",
+    "category": "other"
+  },
+  "154": {
+    "facet_id": "input",
+    "facet_name": "Input",
+    "category": "other"
+  },
+  "155": {
+    "facet_id": "discreteness",
+    "facet_name": "Discreteness",
+    "category": "other"
+  },
+  "156": {
+    "facet_id": "energy_healing_practice_reiki_sessions_year",
+    "facet_name": "Energy-Healing Practice: Reiki Sessions / Year",
+    "category": "spirituality_culture"
+  },
+  "157": {
+    "facet_id": "astrology_rising_sign_is_scorpio",
+    "facet_name": "Astrology: Rising Sign Is Scorpio",
+    "category": "other"
+  },
+  "158": {
+    "facet_id": "character_strength_social_intelligence",
+    "facet_name": "Character Strength: Social Intelligence",
+    "category": "personality"
+  },
+  "159": {
+    "facet_id": "bravery",
+    "facet_name": "Bravery",
+    "category": "personality"
+  },
+  "160": {
+    "facet_id": "childhood_experiences",
+    "facet_name": "Childhood Experiences",
+    "category": "other"
+  },
+  "161": {
+    "facet_id": "data_sharing_consent_level",
+    "facet_name": "Data-Sharing Consent Level",
+    "category": "clinical_health"
+  },
+  "162": {
+    "facet_id": "vision_check_frequency",
+    "facet_name": "Vision-Check Frequency",
+    "category": "behavioral_lifestyle"
+  },
+  "163": {
+    "facet_id": "physical_violence_exposure",
+    "facet_name": "Physical-Violence Exposure",
+    "category": "safety"
+  },
+  "164": {
+    "facet_id": "macronutrient_ratio_fat",
+    "facet_name": "Macronutrient Ratio: Fat",
+    "category": "social"
+  },
+  "165": {
+    "facet_id": "cooking_and_culinary_arts",
+    "facet_name": "Cooking And Culinary Arts",
+    "category": "other"
+  },
+  "166": {
+    "facet_id": "language_use",
+    "facet_name": "Language Use",
+    "category": "other"
+  },
+  "167": {
+    "facet_id": "dance_style_mastery_diversity",
+    "facet_name": "Dance-Style Mastery Diversity",
+    "category": "personality"
+  },
+  "168": {
+    "facet_id": "satya_adherence",
+    "facet_name": "Satya Adherence",
+    "category": "other"
+  },
+  "169": {
+    "facet_id": "ethnocentrism",
+    "facet_name": "Ethnocentrism",
+    "category": "other"
+  },
+  "170": {
+    "facet_id": "emotional_boundaries",
+    "facet_name": "Emotional Boundaries",
+    "category": "emotion"
+  },
+  "171": {
+    "facet_id": "creativity_in_solutions",
+    "facet_name": "Creativity In Solutions",
+    "category": "cognitive"
+  },
+  "172": {
+    "facet_id": "psychological_construct_hope_scale",
+    "facet_name": "Psychological Construct: Hope Scale",
+    "category": "cognitive"
+  },
+  "173": {
+    "facet_id": "practice_frequency_walking_meditation",
+    "facet_name": "Practice Frequency: Walking Meditation",
+    "category": "behavioral_lifestyle"
+  },
+  "174": {
+    "facet_id": "depression_dep",
+    "facet_name": "Depression (Dep)",
+    "category": "emotion"
+  },
+  "175": {
+    "facet_id": "understanding_mathematical_concepts",
+    "facet_name": "Understanding Mathematical Concepts",
+    "category": "cognitive"
+  },
+  "176": {
+    "facet_id": "hypomania_ma",
+    "facet_name": "Hypomania (Ma)",
+    "category": "other"
+  },
+  "177": {
+    "facet_id": "goal_directed_behavior",
+    "facet_name": "Goal-Directed Behavior",
+    "category": "behavioral_lifestyle"
+  },
+  "178": {
+    "facet_id": "depth_of_emotional_connections",
+    "facet_name": "Depth Of Emotional Connections",
+    "category": "emotion"
+  },
+  "179": {
+    "facet_id": "binding_foundations_index",
+    "facet_name": "Binding Foundations Index",
+    "category": "other"
+  },
+  "180": {
+    "facet_id": "ego_dissolution_frequency",
+    "facet_name": "Ego Dissolution Frequency",
+    "category": "behavioral_lifestyle"
+  },
+  "181": {
+    "facet_id": "activator_turning_thoughts_into_action",
+    "facet_name": "Activator: Turning Thoughts Into Action",
+    "category": "cognitive"
+  },
+  "182": {
+    "facet_id": "gnostic_spiritual_metric_archon_meditation_frequency",
+    "facet_name": "Gnostic Spiritual Metric: Archon Meditation Frequency",
+    "category": "behavioral_lifestyle"
+  },
+  "183": {
+    "facet_id": "exemplariness",
+    "facet_name": "Exemplariness",
+    "category": "emotion"
+  },
+  "184": {
+    "facet_id": "moral_and_ethical_parameters",
+    "facet_name": "Moral And Ethical Parameters",
+    "category": "cognitive"
+  },
+  "185": {
+    "facet_id": "submission",
+    "facet_name": "Submission",
+    "category": "social"
+  },
+  "186": {
+    "facet_id": "frankness",
+    "facet_name": "Frankness",
+    "category": "other"
+  },
+  "187": {
+    "facet_id": "psychological_construct_psychological_safety_climate",
+    "facet_name": "Psychological Construct: Psychological Safety Climate",
+    "category": "cognitive"
+  },
+  "188": {
+    "facet_id": "psychological_construct_self_compassion_total",
+    "facet_name": "Psychological Construct: Self-Compassion Total",
+    "category": "emotion"
+  },
+  "189": {
+    "facet_id": "psychological_construct_executive_function_composite",
+    "facet_name": "Psychological Construct: Executive-Function Composite",
+    "category": "cognitive"
+  },
+  "190": {
+    "facet_id": "rebelliousness",
+    "facet_name": "Rebelliousness",
+    "category": "other"
+  },
+  "191": {
+    "facet_id": "volunteer_work",
+    "facet_name": "Volunteer Work",
+    "category": "other"
+  },
+  "192": {
+    "facet_id": "intellect",
+    "facet_name": "Intellect",
+    "category": "other"
+  },
+  "193": {
+    "facet_id": "use_of_mathematical_formulas",
+    "facet_name": "Use Of Mathematical Formulas",
+    "category": "other"
+  },
+  "194": {
+    "facet_id": "coarseness",
+    "facet_name": "Coarseness",
+    "category": "other"
+  },
+  "195": {
+    "facet_id": "behavioral_tendencies_and_subcomponents",
+    "facet_name": "Behavioral Tendencies And Subcomponents",
+    "category": "behavioral_lifestyle"
+  },
+  "196": {
+    "facet_id": "sensitivity",
+    "facet_name": "Sensitivity",
+    "category": "cognitive"
+  },
+  "197": {
+    "facet_id": "divided_attention_ability",
+    "facet_name": "Divided Attention Ability",
+    "category": "personality"
+  },
+  "198": {
+    "facet_id": "psychological_construct_acculturative_stress_score",
+    "facet_name": "Psychological Construct: Acculturative Stress Score",
+    "category": "cognitive"
+  },
+  "199": {
+    "facet_id": "dauntlessness",
+    "facet_name": "Dauntlessness",
+    "category": "other"
+  },
+  "200": {
+    "facet_id": "concreteness",
+    "facet_name": "Concreteness",
+    "category": "other"
+  },
+  "201": {
+    "facet_id": "hysteria_hy",
+    "facet_name": "Hysteria (Hy)",
+    "category": "other"
+  },
+  "202": {
+    "facet_id": "jewish_spiritual_metric_sukkot_lulav_shaking_days",
+    "facet_name": "Jewish Spiritual Metric: Sukkot Lulav-Shaking Days",
+    "category": "spirituality_culture"
+  },
+  "203": {
+    "facet_id": "sentence_structure",
+    "facet_name": "Sentence Structure",
+    "category": "other"
+  },
+  "204": {
+    "facet_id": "esteem_needs",
+    "facet_name": "Esteem Needs",
+    "category": "other"
+  },
+  "205": {
+    "facet_id": "understanding_mechanical_concepts",
+    "facet_name": "Understanding Mechanical Concepts",
+    "category": "cognitive"
+  },
+  "206": {
+    "facet_id": "auditory_memory_recall",
+    "facet_name": "Auditory Memory Recall",
+    "category": "other"
+  },
+  "207": {
+    "facet_id": "storytelling_proficiency",
+    "facet_name": "Storytelling Proficiency",
+    "category": "other"
+  },
+  "208": {
+    "facet_id": "music_lessons_years",
+    "facet_name": "Music-Lessons Years",
+    "category": "other"
+  },
+  "209": {
+    "facet_id": "warmheartedness",
+    "facet_name": "Warmheartedness",
+    "category": "emotion"
+  },
+  "210": {
+    "facet_id": "self_effacement",
+    "facet_name": "Self-Effacement",
+    "category": "other"
+  },
+  "211": {
+    "facet_id": "outspokenness",
+    "facet_name": "Outspokenness",
+    "category": "other"
+  },
+  "212": {
+    "facet_id": "sleep_environment_temperature",
+    "facet_name": "Sleep-Environment Temperature",
+    "category": "social"
+  },
+  "213": {
+    "facet_id": "comprehension_of_spoken_information",
+    "facet_name": "Comprehension Of Spoken Information",
+    "category": "safety"
+  },
+  "214": {
+    "facet_id": "blissfulness",
+    "facet_name": "Blissfulness",
+    "category": "spirituality_culture"
+  },
+  "215": {
+    "facet_id": "sequential_memory_recall",
+    "facet_name": "Sequential Memory Recall",
+    "category": "other"
+  },
+  "216": {
+    "facet_id": "withdrawnness",
+    "facet_name": "Withdrawnness",
+    "category": "other"
+  },
+  "217": {
+    "facet_id": "hindu_spiritual_metric_yoga_discipline_hours_week",
+    "facet_name": "Hindu Spiritual Metric: Yoga Discipline Hours / Week",
+    "category": "spirituality_culture"
+  },
+  "218": {
+    "facet_id": "conservatism",
+    "facet_name": "Conservatism",
+    "category": "other"
+  },
+  "219": {
+    "facet_id": "adaptability_and_flexibility_subcomponents",
+    "facet_name": "Adaptability And Flexibility Subcomponents",
+    "category": "other"
+  },
+  "220": {
+    "facet_id": "hindu_spiritual_metric_vrata_vows_observed_year",
+    "facet_name": "Hindu Spiritual Metric: Vrata Vows Observed / Year",
+    "category": "spirituality_culture"
+  },
+  "221": {
+    "facet_id": "ardency",
+    "facet_name": "Ardency",
+    "category": "other"
+  },
+  "222": {
+    "facet_id": "aesthetic_appreciation",
+    "facet_name": "Aesthetic Appreciation",
+    "category": "other"
+  },
+  "223": {
+    "facet_id": "transactional_leadership",
+    "facet_name": "Transactional Leadership",
+    "category": "social"
+  },
+  "224": {
+    "facet_id": "value_orientation_universalism",
+    "facet_name": "Value Orientation: Universalism",
+    "category": "social"
+  },
+  "225": {
+    "facet_id": "perseverance",
+    "facet_name": "Perseverance",
+    "category": "other"
+  },
+  "226": {
+    "facet_id": "regularity_of_self_reflection",
+    "facet_name": "Regularity Of Self-Reflection",
+    "category": "other"
+  },
+  "227": {
+    "facet_id": "controlling_reactions",
+    "facet_name": "Controlling Reactions",
+    "category": "cognitive"
+  },
+  "228": {
+    "facet_id": "psychological_construct_cultural_intelligence_behavioral",
+    "facet_name": "Psychological Construct: Cultural Intelligence – Behavioral",
+    "category": "cognitive"
+  },
+  "229": {
+    "facet_id": "metabolic_rate_low_or_high",
+    "facet_name": "Metabolic Rate (Low Or High)",
+    "category": "other"
+  },
+  "230": {
+    "facet_id": "dietary_habits",
+    "facet_name": "Dietary Habits",
+    "category": "behavioral_lifestyle"
+  },
+  "231": {
+    "facet_id": "significance_desire_to_make_an_impact",
+    "facet_name": "Significance: Desire To Make An Impact",
+    "category": "other"
+  },
+  "232": {
+    "facet_id": "psychological_construct_resilience_trait_score",
+    "facet_name": "Psychological Construct: Resilience-Trait Score",
+    "category": "cognitive"
+  },
+  "233": {
+    "facet_id": "boredom_susceptibility",
+    "facet_name": "Boredom Susceptibility",
+    "category": "other"
+  },
+  "234": {
+    "facet_id": "psychological_construct_consummatory_pleasure_scale",
+    "facet_name": "Psychological Construct: Consummatory Pleasure Scale",
+    "category": "cognitive"
+  },
+  "235": {
+    "facet_id": "leadership_styles_and_behaviors",
+    "facet_name": "Leadership Styles And Behaviors",
+    "category": "social"
+  },
+  "236": {
+    "facet_id": "i_ching_hexagram_5_resonance_level",
+    "facet_name": "I Ching Hexagram 5 Resonance Level",
+    "category": "clinical_health"
+  },
+  "237": {
+    "facet_id": "macronutrient_ratio_carbs",
+    "facet_name": "Macronutrient Ratio: Carbs",
+    "category": "social"
+  },
+  "238": {
+    "facet_id": "passport_stamps_count",
+    "facet_name": "Passport-Stamps Count",
+    "category": "behavioral_lifestyle"
+  },
+  "239": {
+    "facet_id": "local_food_sourcing",
+    "facet_name": "Local-Food Sourcing %",
+    "category": "cognitive"
+  },
+  "240": {
+    "facet_id": "patient_care_orientation",
+    "facet_name": "Patient Care Orientation",
+    "category": "other"
+  },
+  "241": {
+    "facet_id": "soft_skill_training_hours",
+    "facet_name": "Soft-Skill Training Hours",
+    "category": "behavioral_lifestyle"
+  },
+  "242": {
+    "facet_id": "graffiti_appreciation",
+    "facet_name": "Graffiti Appreciation",
+    "category": "other"
+  },
+  "243": {
+    "facet_id": "preference_for_home_cooked_vs_restaurant_meals",
+    "facet_name": "Preference For Home-Cooked Vs Restaurant Meals",
+    "category": "other"
+  },
+  "244": {
+    "facet_id": "immune_response_age",
+    "facet_name": "Immune-Response Age",
+    "category": "other"
+  },
+  "245": {
+    "facet_id": "social_cognition_variable_cognitive_empathy",
+    "facet_name": "Social-Cognition Variable: Cognitive Empathy",
+    "category": "emotion"
+  },
+  "246": {
+    "facet_id": "kink_interest_diversity",
+    "facet_name": "Kink-Interest Diversity",
+    "category": "personality"
+  },
+  "247": {
+    "facet_id": "adaptability_and_flexibility",
+    "facet_name": "Adaptability And Flexibility",
+    "category": "other"
+  },
+  "248": {
+    "facet_id": "judging_consequences",
+    "facet_name": "Judging Consequences",
+    "category": "behavioral_lifestyle"
+  },
+  "249": {
+    "facet_id": "harmfulness",
+    "facet_name": "Harmfulness",
+    "category": "safety"
+  },
+  "250": {
+    "facet_id": "affinity",
+    "facet_name": "Affinity",
+    "category": "other"
+  },
+  "251": {
+    "facet_id": "abasement",
+    "facet_name": "Abasement",
+    "category": "other"
+  },
+  "252": {
+    "facet_id": "chronic_pain_presence",
+    "facet_name": "Chronic Pain Presence",
+    "category": "other"
+  },
+  "253": {
+    "facet_id": "discernment_practice_hours_week",
+    "facet_name": "Discernment Practice Hours / Week",
+    "category": "spirituality_culture"
+  },
+  "254": {
+    "facet_id": "initiative",
+    "facet_name": "Initiative",
+    "category": "other"
+  },
+  "255": {
+    "facet_id": "courageousness",
+    "facet_name": "Courageousness",
+    "category": "personality"
+  },
+  "256": {
+    "facet_id": "joyfulness",
+    "facet_name": "Joyfulness",
+    "category": "spirituality_culture"
+  },
+  "257": {
+    "facet_id": "suspicion",
+    "facet_name": "Suspicion",
+    "category": "other"
+  },
+  "258": {
+    "facet_id": "basophil_count",
+    "facet_name": "Basophil Count",
+    "category": "behavioral_lifestyle"
+  },
+  "259": {
+    "facet_id": "attachment_avoidance_score",
+    "facet_name": "Attachment Avoidance Score",
+    "category": "other"
+  },
+  "260": {
+    "facet_id": "time_orientation_end_points",
+    "facet_name": "Time Orientation End Points",
+    "category": "other"
+  },
+  "261": {
+    "facet_id": "brazenness",
+    "facet_name": "Brazenness",
+    "category": "other"
+  },
+  "262": {
+    "facet_id": "talkativeness",
+    "facet_name": "Talkativeness",
+    "category": "social"
+  },
+  "263": {
+    "facet_id": "equitableness",
+    "facet_name": "Equitableness",
+    "category": "personality"
+  },
+  "264": {
+    "facet_id": "ideas_generated_day",
+    "facet_name": "Ideas Generated/Day",
+    "category": "other"
+  },
+  "265": {
+    "facet_id": "originality",
+    "facet_name": "Originality",
+    "category": "spirituality_culture"
+  },
+  "266": {
+    "facet_id": "fearfulness_fear_of_physical_dangers",
+    "facet_name": "Fearfulness: Fear Of Physical Dangers",
+    "category": "other"
+  },
+  "267": {
+    "facet_id": "dance_rehearsal_hours_week",
+    "facet_name": "Dance Rehearsal Hours/Week",
+    "category": "other"
+  },
+  "268": {
+    "facet_id": "practice_frequency_mantra_meditation",
+    "facet_name": "Practice Frequency: Mantra Meditation",
+    "category": "behavioral_lifestyle"
+  },
+  "269": {
+    "facet_id": "public_transport_km_week",
+    "facet_name": "Public-Transport Km/Week",
+    "category": "other"
+  },
+  "270": {
+    "facet_id": "social_desirability_bias",
+    "facet_name": "Social Desirability Bias",
+    "category": "safety"
+  },
+  "271": {
+    "facet_id": "i_ching_hexagram_43_resonance_level",
+    "facet_name": "I Ching Hexagram 43 Resonance Level",
+    "category": "clinical_health"
+  },
+  "272": {
+    "facet_id": "disagreeableness",
+    "facet_name": "Disagreeableness",
+    "category": "personality"
+  },
+  "273": {
+    "facet_id": "participation_in_community_activities",
+    "facet_name": "Participation In Community Activities",
+    "category": "behavioral_lifestyle"
+  },
+  "274": {
+    "facet_id": "impudence",
+    "facet_name": "Impudence",
+    "category": "other"
+  },
+  "275": {
+    "facet_id": "analogies",
+    "facet_name": "Analogies",
+    "category": "other"
+  },
+  "276": {
+    "facet_id": "clumsiness",
+    "facet_name": "Clumsiness",
+    "category": "other"
+  },
+  "277": {
+    "facet_id": "tendency_toward_compromise_or_confrontation",
+    "facet_name": "Tendency Toward Compromise Or Confrontation",
+    "category": "emotion"
+  },
+  "278": {
+    "facet_id": "i_ching_hexagram_19_resonance_level",
+    "facet_name": "I Ching Hexagram 19 Resonance Level",
+    "category": "clinical_health"
+  },
+  "279": {
+    "facet_id": "robotics_interaction_frequency",
+    "facet_name": "Robotics-Interaction Frequency",
+    "category": "behavioral_lifestyle"
+  },
+  "280": {
+    "facet_id": "casual_lifestyle",
+    "facet_name": "Casual Lifestyle",
+    "category": "behavioral_lifestyle"
+  },
+  "281": {
+    "facet_id": "collectedness",
+    "facet_name": "Collectedness",
+    "category": "other"
+  },
+  "282": {
+    "facet_id": "reliance_on_context",
+    "facet_name": "Reliance On Context",
+    "category": "other"
+  },
+  "283": {
+    "facet_id": "delegation_skills",
+    "facet_name": "Delegation Skills",
+    "category": "other"
+  },
+  "284": {
+    "facet_id": "i_ching_hexagram_49_resonance_level",
+    "facet_name": "I Ching Hexagram 49 Resonance Level",
+    "category": "clinical_health"
+  },
+  "285": {
+    "facet_id": "managing_emotions",
+    "facet_name": "Managing Emotions",
+    "category": "emotion"
+  },
+  "286": {
+    "facet_id": "scripture_memorization_verses",
+    "facet_name": "Scripture Memorization Verses",
+    "category": "other"
+  },
+  "287": {
+    "facet_id": "conventional",
+    "facet_name": "Conventional",
+    "category": "safety"
+  },
+  "288": {
+    "facet_id": "hindu_spiritual_metric_bhagavad_gita_study_hours",
+    "facet_name": "Hindu Spiritual Metric: Bhagavad-Gita Study Hours",
+    "category": "spirituality_culture"
+  },
+  "289": {
+    "facet_id": "open_source_contributions",
+    "facet_name": "Open-Source Contributions",
+    "category": "other"
+  },
+  "290": {
+    "facet_id": "psychological_construct_social_conformity_tendency",
+    "facet_name": "Psychological Construct: Social Conformity Tendency",
+    "category": "cognitive"
+  },
+  "291": {
+    "facet_id": "individuality",
+    "facet_name": "Individuality",
+    "category": "spirituality_culture"
+  },
+  "292": {
+    "facet_id": "i_ching_hexagram_22_resonance_level",
+    "facet_name": "I Ching Hexagram 22 Resonance Level",
+    "category": "clinical_health"
+  },
+  "293": {
+    "facet_id": "attachment_style_secure",
+    "facet_name": "Attachment Style: Secure",
+    "category": "other"
+  },
+  "294": {
+    "facet_id": "intelligence_quotient_iq",
+    "facet_name": "Intelligence Quotient (Iq)",
+    "category": "other"
+  },
+  "295": {
+    "facet_id": "blog_subscriber_count",
+    "facet_name": "Blog-Subscriber Count",
+    "category": "behavioral_lifestyle"
+  },
+  "296": {
+    "facet_id": "non_verbal_communication_skills",
+    "facet_name": "Non-Verbal Communication Skills",
+    "category": "social"
+  },
+  "297": {
+    "facet_id": "drug_use_history",
+    "facet_name": "Drug-Use History",
+    "category": "other"
+  },
+  "298": {
+    "facet_id": "commute_time_day",
+    "facet_name": "Commute Time/Day",
+    "category": "other"
+  },
+  "299": {
+    "facet_id": "decision_making_speed",
+    "facet_name": "Decision-Making Speed",
+    "category": "other"
+  },
+  "300": {
+    "facet_id": "psychological_construct_excuse_making_tendency",
+    "facet_name": "Psychological Construct: Excuse-Making Tendency",
+    "category": "cognitive"
+  },
+  "301": {
+    "facet_id": "peer_to_peer_lending_usage",
+    "facet_name": "Peer-To-Peer Lending Usage",
+    "category": "other"
+  },
+  "302": {
+    "facet_id": "psychological_construct_eye_contact_avoidance_score",
+    "facet_name": "Psychological Construct: Eye-Contact Avoidance Score",
+    "category": "cognitive"
+  },
+  "303": {
+    "facet_id": "social_cognition_variable_faux_pas_recognition_accuracy",
+    "facet_name": "Social-Cognition Variable: Faux Pas Recognition Accuracy",
+    "category": "cognitive"
+  },
+  "304": {
+    "facet_id": "conscientiousness_c",
+    "facet_name": "Conscientiousness (C)",
+    "category": "personality"
+  },
+  "305": {
+    "facet_id": "use_of_nature_as_a_stress_reliever",
+    "facet_name": "Use Of Nature As A Stress Reliever",
+    "category": "other"
+  },
+  "306": {
+    "facet_id": "attitude_toward_learning",
+    "facet_name": "Attitude Toward Learning",
+    "category": "cognitive"
+  },
+  "307": {
+    "facet_id": "conscientiousness_facets",
+    "facet_name": "Conscientiousness Facets",
+    "category": "personality"
+  },
+  "308": {
+    "facet_id": "honesty_humility_trait_score",
+    "facet_name": "Honesty-Humility Trait Score",
+    "category": "personality"
+  },
+  "309": {
+    "facet_id": "digital_nomad_months",
+    "facet_name": "Digital-Nomad Months",
+    "category": "other"
+  },
+  "310": {
+    "facet_id": "religious_coping_negative",
+    "facet_name": "Religious Coping – Negative",
+    "category": "spirituality_culture"
+  },
+  "311": {
+    "facet_id": "snacking_behavior",
+    "facet_name": "Snacking Behavior",
+    "category": "behavioral_lifestyle"
+  },
+  "312": {
+    "facet_id": "aura_color_perception",
+    "facet_name": "Aura-Color Perception",
+    "category": "safety"
+  },
+  "313": {
+    "facet_id": "sacred_text_engagement_zohar_kabbalah_study_hours",
+    "facet_name": "Sacred Text Engagement: Zohar (Kabbalah) Study Hours",
+    "category": "other"
+  },
+  "314": {
+    "facet_id": "motivational_drivers",
+    "facet_name": "Motivational Drivers",
+    "category": "safety"
+  },
+  "315": {
+    "facet_id": "cloud_backup_frequency",
+    "facet_name": "Cloud-Backup Frequency",
+    "category": "behavioral_lifestyle"
+  },
+  "316": {
+    "facet_id": "learning_style",
+    "facet_name": "Learning Style",
+    "category": "cognitive"
+  },
+  "317": {
+    "facet_id": "islamic_practice_seerah_study_hours",
+    "facet_name": "Islamic Practice: Seerah Study Hours",
+    "category": "spirituality_culture"
+  },
+  "318": {
+    "facet_id": "safety_compliance",
+    "facet_name": "Safety Compliance",
+    "category": "other"
+  },
+  "319": {
+    "facet_id": "sensationalism",
+    "facet_name": "Sensationalism",
+    "category": "safety"
+  },
+  "320": {
+    "facet_id": "nationality",
+    "facet_name": "Nationality",
+    "category": "safety"
+  },
+  "321": {
+    "facet_id": "drollness",
+    "facet_name": "Drollness",
+    "category": "other"
+  },
+  "322": {
+    "facet_id": "cooperation",
+    "facet_name": "Cooperation",
+    "category": "social"
+  },
+  "323": {
+    "facet_id": "breakfast_skipping_frequency",
+    "facet_name": "Breakfast-Skipping Frequency",
+    "category": "behavioral_lifestyle"
+  },
+  "324": {
+    "facet_id": "sikh_spiritual_metric_kirtan_participation_frequency",
+    "facet_name": "Sikh Spiritual Metric: Kirtan Participation Frequency",
+    "category": "behavioral_lifestyle"
+  },
+  "325": {
+    "facet_id": "impulsivity",
+    "facet_name": "Impulsivity",
+    "category": "personality"
+  },
+  "326": {
+    "facet_id": "museum_visits_year",
+    "facet_name": "Museum Visits/Year",
+    "category": "other"
+  },
+  "327": {
+    "facet_id": "choir_participation_years",
+    "facet_name": "Choir Participation Years",
+    "category": "behavioral_lifestyle"
+  },
+  "328": {
+    "facet_id": "delegation_ability",
+    "facet_name": "Delegation Ability",
+    "category": "other"
+  },
+  "329": {
+    "facet_id": "kabbalah_sephira_balance_tiferet",
+    "facet_name": "Kabbalah Sephira Balance: Tiferet",
+    "category": "other"
+  },
+  "330": {
+    "facet_id": "desire_to_influence_others",
+    "facet_name": "Desire To Influence Others",
+    "category": "social"
+  },
+  "331": {
+    "facet_id": "vivacity",
+    "facet_name": "Vivacity",
+    "category": "safety"
+  },
+  "332": {
+    "facet_id": "genialness",
+    "facet_name": "Genialness",
+    "category": "other"
+  },
+  "333": {
+    "facet_id": "cognitive_measure_working_memory_index",
+    "facet_name": "Cognitive Measure: Working Memory Index",
+    "category": "cognitive"
+  },
+  "334": {
+    "facet_id": "ethical_practices",
+    "facet_name": "Ethical Practices",
+    "category": "spirituality_culture"
+  },
+  "335": {
+    "facet_id": "new_age_spiritual_metric_channeling_sessions_year",
+    "facet_name": "New-Age Spiritual Metric: Channeling Sessions / Year",
+    "category": "spirituality_culture"
+  },
+  "336": {
+    "facet_id": "civility",
+    "facet_name": "Civility",
+    "category": "other"
+  },
+  "337": {
+    "facet_id": "sleep_apnea",
+    "facet_name": "Sleep Apnea",
+    "category": "other"
+  },
+  "338": {
+    "facet_id": "classiness",
+    "facet_name": "Classiness",
+    "category": "emotion"
+  },
+  "339": {
+    "facet_id": "control_over_situations",
+    "facet_name": "Control Over Situations",
+    "category": "safety"
+  },
+  "340": {
+    "facet_id": "time_outdoors_day_h",
+    "facet_name": "Time Outdoors/Day (H)",
+    "category": "other"
+  },
+  "341": {
+    "facet_id": "effeteness",
+    "facet_name": "Effeteness",
+    "category": "other"
+  },
+  "342": {
+    "facet_id": "polygenic_risk_cardiovascular_disease",
+    "facet_name": "Polygenic Risk: Cardiovascular Disease",
+    "category": "other"
+  },
+  "343": {
+    "facet_id": "psychological_construct_identity_diffusion_level",
+    "facet_name": "Psychological Construct: Identity Diffusion Level",
+    "category": "cognitive"
+  },
+  "344": {
+    "facet_id": "learning_through_movement",
+    "facet_name": "Learning Through Movement",
+    "category": "cognitive"
+  },
+  "345": {
+    "facet_id": "caffeine_sensitivity_gene",
+    "facet_name": "Caffeine Sensitivity Gene",
+    "category": "other"
+  },
+  "346": {
+    "facet_id": "hatefulness",
+    "facet_name": "Hatefulness",
+    "category": "safety"
+  },
+  "347": {
+    "facet_id": "persistence",
+    "facet_name": "Persistence",
+    "category": "personality"
+  },
+  "348": {
+    "facet_id": "psychological_construct_perfectionistic_strivings",
+    "facet_name": "Psychological Construct: Perfectionistic Strivings",
+    "category": "cognitive"
+  },
+  "349": {
+    "facet_id": "wake_time_consistency",
+    "facet_name": "Wake-Time Consistency",
+    "category": "other"
+  },
+  "350": {
+    "facet_id": "numerical_reasoning",
+    "facet_name": "Numerical Reasoning",
+    "category": "cognitive"
+  },
+  "351": {
+    "facet_id": "social_cognition_variable_mentalizing_network_activation",
+    "facet_name": "Social-Cognition Variable: Mentalizing Network Activation",
+    "category": "cognitive"
+  },
+  "352": {
+    "facet_id": "patriotism",
+    "facet_name": "Patriotism",
+    "category": "other"
+  },
+  "353": {
+    "facet_id": "leadership_styles",
+    "facet_name": "Leadership Styles",
+    "category": "social"
+  },
+  "354": {
+    "facet_id": "servility",
+    "facet_name": "Servility",
+    "category": "other"
+  },
+  "355": {
+    "facet_id": "i_ching_hexagram_24_resonance_level",
+    "facet_name": "I Ching Hexagram 24 Resonance Level",
+    "category": "clinical_health"
+  },
+  "356": {
+    "facet_id": "enneagram_personality_types",
+    "facet_name": "Enneagram Personality Types",
+    "category": "other"
+  },
+  "357": {
+    "facet_id": "stress_recovery_ability",
+    "facet_name": "Stress Recovery Ability",
+    "category": "other"
+  },
+  "358": {
+    "facet_id": "troubleshooting_technical_issues",
+    "facet_name": "Troubleshooting Technical Issues",
+    "category": "cognitive"
+  },
+  "359": {
+    "facet_id": "defense_mechanism_tendency_introjection",
+    "facet_name": "Defense-Mechanism Tendency: Introjection",
+    "category": "other"
+  },
+  "360": {
+    "facet_id": "irritability",
+    "facet_name": "Irritability",
+    "category": "other"
+  },
+  "361": {
+    "facet_id": "travel_companions_diversity",
+    "facet_name": "Travel-Companions Diversity",
+    "category": "emotion"
+  },
+  "362": {
+    "facet_id": "sacred_text_engagement_quran_surahs_memorized",
+    "facet_name": "Sacred Text Engagement: Quran Surahs Memorized",
+    "category": "other"
+  },
+  "363": {
+    "facet_id": "trust_in_others",
+    "facet_name": "Trust In Others",
+    "category": "other"
+  },
+  "364": {
+    "facet_id": "gamified_finance_app_usage",
+    "facet_name": "Gamified-Finance-App Usage",
+    "category": "other"
+  },
+  "365": {
+    "facet_id": "buddhist_practice_eightfold_path_right_intention_level",
+    "facet_name": "Buddhist Practice: Eightfold Path – Right Intention Level",
+    "category": "clinical_health"
+  },
+  "366": {
+    "facet_id": "caffeine_intake_mg_day",
+    "facet_name": "Caffeine Intake (Mg/Day)",
+    "category": "other"
+  },
+  "367": {
+    "facet_id": "comfort_with_vulnerability",
+    "facet_name": "Comfort With Vulnerability",
+    "category": "other"
+  },
+  "368": {
+    "facet_id": "anticipativeness",
+    "facet_name": "Anticipativeness",
+    "category": "personality"
+  },
+  "369": {
+    "facet_id": "additional_common_parameters_and_their_end_points",
+    "facet_name": "Additional Common Parameters And Their End Points",
+    "category": "other"
+  },
+  "370": {
+    "facet_id": "avoiding",
+    "facet_name": "Avoiding",
+    "category": "other"
+  },
+  "371": {
+    "facet_id": "home_security_system_presence",
+    "facet_name": "Home-Security-System Presence",
+    "category": "other"
+  },
+  "372": {
+    "facet_id": "hexaco_domain_honesty_humility",
+    "facet_name": "Hexaco Domain: Honesty-Humility",
+    "category": "personality"
+  },
+  "373": {
+    "facet_id": "eating_habits_home_cooked_vs_eating_out",
+    "facet_name": "Eating Habits (Home-Cooked Vs. Eating Out)",
+    "category": "behavioral_lifestyle"
+  },
+  "374": {
+    "facet_id": "decision_making_confidence",
+    "facet_name": "Decision-Making Confidence",
+    "category": "personality"
+  },
+  "375": {
+    "facet_id": "alignment_with_societal_roles",
+    "facet_name": "Alignment With Societal Roles",
+    "category": "other"
+  },
+  "376": {
+    "facet_id": "connectedness_belief_in_interconnections",
+    "facet_name": "Connectedness: Belief In Interconnections",
+    "category": "personality"
+  },
+  "377": {
+    "facet_id": "quirkiness",
+    "facet_name": "Quirkiness",
+    "category": "emotion"
+  },
+  "378": {
+    "facet_id": "creative_resilience",
+    "facet_name": "Creative Resilience",
+    "category": "cognitive"
+  },
+  "379": {
+    "facet_id": "rapid_cognitive_processing",
+    "facet_name": "Rapid Cognitive Processing",
+    "category": "cognitive"
+  },
+  "380": {
+    "facet_id": "cordiality",
+    "facet_name": "Cordiality",
+    "category": "spirituality_culture"
+  },
+  "381": {
+    "facet_id": "types_of_mindfulness_techniques_used",
+    "facet_name": "Types Of Mindfulness Techniques Used",
+    "category": "spirituality_culture"
+  },
+  "382": {
+    "facet_id": "economic_reasoning",
+    "facet_name": "Economic Reasoning",
+    "category": "cognitive"
+  },
+  "383": {
+    "facet_id": "conformity",
+    "facet_name": "Conformity",
+    "category": "social"
+  },
+  "384": {
+    "facet_id": "pet_enrichment_activities_count",
+    "facet_name": "Pet-Enrichment Activities Count",
+    "category": "behavioral_lifestyle"
+  },
+  "385": {
+    "facet_id": "aestheticism",
+    "facet_name": "Aestheticism",
+    "category": "personality"
+  },
+  "386": {
+    "facet_id": "type_of_support_preferred_emotional_vs_practical",
+    "facet_name": "Type Of Support Preferred (Emotional Vs. Practical)",
+    "category": "emotion"
+  },
+  "387": {
+    "facet_id": "mental_arithmetic_speed",
+    "facet_name": "Mental Arithmetic Speed",
+    "category": "other"
+  },
+  "388": {
+    "facet_id": "patience_resistance_to_anger",
+    "facet_name": "Patience: Resistance To Anger",
+    "category": "other"
+  },
+  "389": {
+    "facet_id": "flawlessness",
+    "facet_name": "Flawlessness",
+    "category": "other"
+  },
+  "390": {
+    "facet_id": "self_efficacy",
+    "facet_name": "Self-Efficacy",
+    "category": "other"
+  },
+  "391": {
+    "facet_id": "computer_skills",
+    "facet_name": "Computer Skills",
+    "category": "other"
+  },
+  "392": {
+    "facet_id": "jewish_spiritual_metric_shabbat_candle_lighting_consistency",
+    "facet_name": "Jewish Spiritual Metric: Shabbat Candle-Lighting Consistency",
+    "category": "spirituality_culture"
+  },
+  "393": {
+    "facet_id": "spelling_accuracy",
+    "facet_name": "Spelling Accuracy",
+    "category": "other"
+  },
+  "394": {
+    "facet_id": "sufi_practice_dhikr_repetitions_day",
+    "facet_name": "Sufi Practice: Dhikr Repetitions / Day",
+    "category": "spirituality_culture"
+  },
+  "395": {
+    "facet_id": "peacefulness",
+    "facet_name": "Peacefulness",
+    "category": "emotion"
+  },
+  "396": {
+    "facet_id": "doggedness",
+    "facet_name": "Doggedness",
+    "category": "other"
+  },
+  "397": {
+    "facet_id": "decency",
+    "facet_name": "Decency",
+    "category": "other"
+  },
+  "398": {
+    "facet_id": "processed_food_frequency",
+    "facet_name": "Processed-Food Frequency",
+    "category": "behavioral_lifestyle"
+  }
+}

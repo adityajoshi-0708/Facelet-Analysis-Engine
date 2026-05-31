@@ -1,0 +1,12 @@
+llm:
+  provider: ollama
+  name: qwen3:8b
+  base_url: http://localhost:11434
+  temperature: 0.0
+  max_tokens: 1024
+
+embedding:
+  provider: sentence_transformers
+  name: sentence-transformers/all-MiniLM-L6-v2
+  dim: 384
+  batch_size: 64

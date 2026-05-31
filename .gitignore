@@ -1,0 +1,108 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Python Testing
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Model / Vector Indexes
+# =========================
+data/index/*.index
+data/index/*.faiss
+
+# =========================
+# Generated Outputs
+# =========================
+outputs/
+evaluation_results/
+
+# Keep sample outputs if needed
+# !outputs/sample/
+
+# =========================
+# Local Databases
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Ollama / HF Cache
+# =========================
+.cache/
+hf_cache/
+models/
+
+# =========================
+# Temporary Files
+# =========================
+tmp/
+temp/
+*.tmp
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# Large Generated Artifacts
+# =========================
+*.zip
+*.tar.gz
+*.pkl
+*.joblib

@@ -1,0 +1,206 @@
+{
+  "Risk Taking": [
+    "Adventure Seeking",
+    "Boldness",
+    "Courage",
+    "Daring"
+  ],
+  "Adventure Seeking": [
+    "Curiosity",
+    "Risk Taking",
+    "Thrill-Seeking"
+  ],
+  "Courage": [
+    "Assertiveness",
+    "Bravery",
+    "Risk Taking"
+  ],
+  "Boldness": [
+    "Risk Taking"
+  ],
+  "Daring": [
+    "Risk Taking"
+  ],
+  "Compassion": [
+    "Care",
+    "Compassion Fatigue",
+    "Empathy",
+    "Kindness",
+    "Warmth"
+  ],
+  "Empathy": [
+    "Compassion",
+    "Kindness",
+    "Understanding",
+    "Warmth"
+  ],
+  "Kindness": [
+    "Compassion",
+    "Empathy",
+    "Generosity",
+    "Warmth"
+  ],
+  "Warmth": [
+    "Affection",
+    "Compassion",
+    "Empathy",
+    "Kindness"
+  ],
+  "Care": [
+    "Compassion"
+  ],
+  "Honesty": [
+    "Authenticity",
+    "Integrity",
+    "Transparency",
+    "Truthfulness"
+  ],
+  "Authenticity": [
+    "Genuineness",
+    "Honesty",
+    "Integrity"
+  ],
+  "Transparency": [
+    "Honesty"
+  ],
+  "Integrity": [
+    "Authenticity",
+    "Honesty",
+    "Principle"
+  ],
+  "Truthfulness": [
+    "Honesty"
+  ],
+  "Naivety": [
+    "Credulity",
+    "Gullibility",
+    "Innocence"
+  ],
+  "Gullibility": [
+    "Credulity",
+    "Naivety",
+    "Trust"
+  ],
+  "Innocence": [
+    "Naivety"
+  ],
+  "Credulity": [
+    "Gullibility",
+    "Naivety"
+  ],
+  "Curiosity": [
+    "Adventure Seeking",
+    "Common Sense",
+    "Inquisitiveness"
+  ],
+  "Thrill-Seeking": [
+    "Adventure Seeking"
+  ],
+  "Assertiveness": [
+    "Confidence",
+    "Courage",
+    "Democratic Leadership",
+    "Directness",
+    "Dominance"
+  ],
+  "Confidence": [
+    "Assertiveness"
+  ],
+  "Dominance": [
+    "Assertiveness"
+  ],
+  "Directness": [
+    "Assertiveness"
+  ],
+  "Understanding": [
+    "Empathy"
+  ],
+  "Statistical Reasoning": [
+    "Analytical Thinking",
+    "Common Sense",
+    "Quantitative Reasoning"
+  ],
+  "Analytical Thinking": [
+    "Statistical Reasoning"
+  ],
+  "Common Sense": [
+    "Curiosity",
+    "Pragmatism",
+    "Statistical Reasoning",
+    "Wisdom"
+  ],
+  "Quantitative Reasoning": [
+    "Statistical Reasoning"
+  ],
+  "Compassion Fatigue": [
+    "Burnout",
+    "Compassion",
+    "Secondary Trauma"
+  ],
+  "Burnout": [
+    "Compassion Fatigue"
+  ],
+  "Secondary Trauma": [
+    "Compassion Fatigue"
+  ],
+  "Democratic Leadership": [
+    "Assertiveness",
+    "Collaboration",
+    "Participative Leadership"
+  ],
+  "Collaboration": [
+    "Democratic Leadership"
+  ],
+  "Participative Leadership": [
+    "Democratic Leadership"
+  ],
+  "Moroseness": [
+    "Pessimism",
+    "Sadness",
+    "Sullenness"
+  ],
+  "Pessimism": [
+    "Anxiety",
+    "Moroseness",
+    "Negativity"
+  ],
+  "Sadness": [
+    "Moroseness"
+  ],
+  "Sullenness": [
+    "Moroseness"
+  ],
+  "Wisdom": [
+    "Common Sense"
+  ],
+  "Pragmatism": [
+    "Common Sense"
+  ],
+  "Generosity": [
+    "Kindness"
+  ],
+  "Affection": [
+    "Warmth"
+  ],
+  "Bravery": [
+    "Courage"
+  ],
+  "Genuineness": [
+    "Authenticity"
+  ],
+  "Principle": [
+    "Integrity"
+  ],
+  "Anxiety": [
+    "Pessimism"
+  ],
+  "Negativity": [
+    "Pessimism"
+  ],
+  "Inquisitiveness": [
+    "Curiosity"
+  ],
+  "Trust": [
+    "Gullibility"
+  ]
+}

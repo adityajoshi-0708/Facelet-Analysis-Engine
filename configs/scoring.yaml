@@ -1,0 +1,6 @@
+scale: 5
+confidence_threshold: 0.6
+self_consistency_runs: 3
+use_logprobs: true
+use_entropy: true
+rubric_strictness: standard  # strict | standard | lenient
