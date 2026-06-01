@@ -193,13 +193,6 @@ Ahoum/
 
 ---
 
-## Links
-
-**GitHub:** https://github.com/adityajoshi-0708/Facelet-Analysis-Engine  
-**Evaluation Outputs:** https://drive.google.com/drive/folders/1bcUl0qi1QXiqQUBHXVpvhnZtovSGwfxj
-
----
-
 *Aditya Sharma · IIIT Nagpur · B.Tech Data Science*
 
 ---
